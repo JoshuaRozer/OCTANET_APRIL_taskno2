@@ -16,7 +16,7 @@ The ToDo List Page provides a simple and intuitive interface for users to create
 
 **Key Features**
 - User-friendly Interface: The page features a clean and easy-to-use interface, making it accessible for users of all levels.
-- Dynamic Task Management: Users can add new tasks, mark them as completed, and delete them as needed, all without reloading the page.
+- Dynamic Task Management: Users can add new tasks, mark them as completed, and delete them as needed.
 - Responsive Design: The todo list page is designed to be responsive, ensuring optimal viewing and interaction across various devices and screen sizes.
 
 **Files**
